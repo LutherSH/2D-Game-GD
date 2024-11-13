@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - border
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ground
+  - Water
+  - UI
+  - background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Wallpaper
+    uniqueID: 3255669809
+    locked: 0
+  - name: Entry
+    uniqueID: 2259207587
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: enmy
+    uniqueID: 1388816643
+    locked: 0
+  - name: Collectable
+    uniqueID: 321244717
+    locked: 0
+  - name: HighWalls
+    uniqueID: 391472491
+    locked: 0
